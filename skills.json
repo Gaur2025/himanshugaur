@@ -36,7 +36,7 @@
         "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
     },
     {
-        "name": "Machine Learning",
+        "name": "ML",
         "icon": "https://img.icons8.com/?size=1x&id=fTkqveCX0blI&format=png"
     },
     {
@@ -62,5 +62,13 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Teamwork",
+        "icon": "https://img.icons8.com/?size=1x&id=OAs4QZ2x4zyX&format=png"
+    },
+    {
+        "name": "Initiatives",
+        "icon": "https://img.icons8.com/?size=1x&id=WMJj5pEcKvkO&format=png"
     }
 ]
