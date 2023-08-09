@@ -64,7 +64,7 @@ $(document).ready(function () {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Jigar Sable";
+    document.title = "Portfolio | Himanshu Gaur";
     $("#favicon").attr("href", "assets/images/favicon.png");
   } else {
     document.title = "Come Back To Portfolio";
@@ -78,6 +78,7 @@ var typed = new Typed(".typing-text", {
     "backend development",
     "machine learning",
     "data science",
+    "Recommender Systems",
     "MLOps",
     "statistics",
   ],

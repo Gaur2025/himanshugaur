@@ -8,6 +8,26 @@
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
     {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Git bash",
+        "icon": "https://img.icons8.com/?size=1x&id=8gWOBXY72Osj&format=png"
+    },
+    {
+        "name": "FastAPI",
+        "icon": "https://img.icons8.com/?size=1x&id=RlIXjuTUrwoX&format=png"
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/?size=1x&id=qV-JzWYl9dzP&format=png"
+    }, 
+    {
+        "name": "TensorFlow",
+        "icon": "https://img.icons8.com/?size=1x&id=n3QRpDA7KZ7P&format=png"
+    },
+    {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
@@ -16,8 +36,24 @@
         "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
     },
     {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/?size=1x&id=fTkqveCX0blI&format=png"
+    },
+    {
+        "name": "Statistics",
+        "icon": "https://img.icons8.com/?size=1x&id=13551&format=png"
+    },
+    {
         "name": "AWS",
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/?size=1x&id=cdYUlRaag9G9&format=png"
+    },
+    {
+        "name": "TerraForm",
+        "icon": "https://img.icons8.com/?size=1x&id=kEkT1u7zTDk5&format=png"
     },
     {
         "name": "Git VCS",
@@ -26,9 +62,5 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-    } 
+    }
 ]
